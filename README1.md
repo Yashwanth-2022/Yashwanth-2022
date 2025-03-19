@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashwanth</h1>
-<h3 align="center">A passionate DevOpe Engineer enthusiastic about cloud computing and automation.</h3>
+<h3 align="center">A passionate DevOps Engineer enthusiastic about cloud computing and automation.</h3>
 
 - 🌱 I’m currently learning **Grafana, Gen-AI**
 
