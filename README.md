@@ -2,8 +2,6 @@
 
 <h3 align="center">Passionate DevOps Engineer with expertise in AWS, Kubernetes, CI/CD automation, and Infrastructure as Code (IaC).<h3>
 
-I'm aswath
-
 🌱 **Currently Learning:** Grafana, Gen-AI 
 📝 **I write articles on:** [Medium](https://medium.com/@yashwanthtss7)  
 💬 **Love to discuss about:** Containerization, CI/CD pipelines, automation  
