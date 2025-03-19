@@ -1,6 +1,6 @@
 <h1 align="center">Yashwanth | DevOps Engineer <h1>
 
-<h3 align="center">Passionate <strong>DevOps Engineer</strong> with expertise in AWS, Kubernetes, CI/CD automation, and Infrastructure as Code (IaC).<h3>
+<h3 align="center">Passionate <b>DevOps Engineer</b> with expertise in AWS, Kubernetes, CI/CD automation, and Infrastructure as Code (IaC).<h3>
 
 🌱 **Currently Learning:** Grafana, Gen-AI  
 📝 **I write articles on:** [Medium](https://medium.com/@yashwanthtss7)  
