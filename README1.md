@@ -1,27 +1,96 @@
-<h1 align="center">Hi 👋, I'm Yashwanth</h1>
-<h3 align="center">A passionate DevOps Engineer enthusiastic about cloud computing and automation.</h3>
+<h1 align="center"> Yashwanth | DevOps Engineer </h1>  
 
-- 🌱 I’m currently learning **Grafana, Gen-AI**
+<h3 align="center">🚀 Passionate DevOps Engineer with expertise in Cloud Computing, CI/CD automation, and Containerization. </h3>  
 
-- 📝 I regularly write articles on [https://medium.com/@yashwanthtss7](https://medium.com/@yashwanthtss7)
-
-- 💬 Ask me about **Containerization, CI/CD pipeline, automation**
-
-- 📫 How to reach me **yashwanthtss7@gmail.com**
-
-- 📄 Know about my experiences [https://yashwanth-tss.tiiny.site](https://yashwanth-tss.tiiny.site)
-
-- ⚡ Fun fact **Growing up, I was that clueless kid who somehow thought a floppy disk was a save button for real life, but hey, look at me now—geeking out over cloud computing and DevOps like I’m the Tony Stark of tech (minus the suit and the billions, obviously)!**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yashwanth-tss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yashwanth-tss/" height="30" width="40" /></a>
-<a href="https://medium.com/@yashwanthtss7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yashwanthtss7" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/yashwanth-tss"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://medium.com/@yashwanthtss7"><img src="https://img.shields.io/badge/Medium-Blog-black?style=for-the-badge&logo=medium"></a>
+  <a href="mailto:yashwanthtss7@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+🌱 **Currently Learning:** Grafana, Gen-AI  
+📝 **I write articles on:** [Medium](https://medium.com/@yashwanthtss7)  
+💬 **Ask me about:** Containerization, CI/CD, automation  
+📄 **Know about my experiences:** [Resume](https://yashwanth-tss.tiiny.site)  
+
+---
+
+### **🔥 Skills & Technologies**  
+
+#### 🚀 **Cloud Platforms**  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  
+
+#### ⚙ **CI/CD & Automation**  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)  
+<!-- ![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)   -->
+
+#### 🏗 **Containerization & Orchestration**  
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
+
+#### 💻 **Scripting & Programming**  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+![YAML](https://img.shields.io/badge/YAML-%23000000.svg?style=for-the-badge&logo=yaml&logoColor=white)  
+
+#### 📊 **Monitoring & Logging**  
+![AWS CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-%23FF4F00.svg?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)  
+
+#### 🔒 **Security & Networking**  
+- Firewall Log Analysis   
+- MFA   
+- Cloudflare DNS 
+---
+
+### **🎓 Education**  
+📌 **Master of Computer Applications (MCA)** – Vellore Institute of Technology (2022-2024)  
+📌 **Bachelor of Science in Computer Science (B.Sc)** – St. Xavier’s College (2018-2021)  
+
+---
+
+### **📜 Certifications**  
+📌 [Python Programming – Guvi](https://www.guvi.in/verify-certificate?id=2CXk1V1e74Ro99i680)  
+📌 [InfluxDB Essentials – InfluxData](https://www.credly.com/badges/47fda983-3395-44a9-965c-1365720c8ff7/public_url)  
+📌 [Git Certification](https://drive.google.com/file/d/1qqRRhSfbZ_M1BNTEWy10gxbgSyWbJQpp/view?usp=sharing)  
+📌 [The Ultimate DevOps Bootcamp – Udemy](https://www.udemy.com/certificate/UC-27808fdb-1eb8-4076-8848-3d81a157cf92/)  
+
+
+<!-- ### **📊 GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashwanth-2022&show_icons=true&theme=dark" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth-2022&layout=compact&theme=dark" width="400px" />
+</p> -->
+
+---
+
+### **📬 Connect with Me**  
+📧 **Email:** yashwanthtss7@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/yashwanth-tss](https://www.linkedin.com/in/yashwanth-tss/)  
+📝 **Blog:** [Medium](https://medium.com/@yashwanthtss7)  
+📂 **Portfolio:** [Resume](https://yashwanth-tss.tiiny.site)  
+
+---
+
+<!--
+**Yashwanth-2022/Yashwanth-2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+
